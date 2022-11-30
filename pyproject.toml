@@ -13,10 +13,10 @@ pytest-django = "^4.5.2"
 pytest = "^7.2.0"
 python-dotenv = "^0.21.0"
 black = "^22.10.0"
-psycopg2 = "^2.9.5"
 psycopg2-binary = "^2.9.5"
 markdown = "^3.4.1"
 django-filter = "^22.1"
+django-cors-headers = "^3.13.0"
 
 
 [tool.poetry.group.dev.dependencies]
